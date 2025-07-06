@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-danielsuguimoto-readonly-filesystem-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-danielsuguimoto-readonly-filesystem-mcp)
+
 # Readonly Filesystem MCP Server
 
 Node.js server implementing Model Context Protocol (MCP) for readonly filesystem operations. A clone from [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem).
